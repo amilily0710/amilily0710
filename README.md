@@ -1,10 +1,11 @@
 ### Hi there 👋
+![2021-03-08 (2)](https://user-images.githubusercontent.com/75411735/110271960-635e0100-800c-11eb-89af-cc4b9b7314b1.png)
+
 
 <!--
 **amilily0710/amilily0710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-![2021-03-08 (2)](https://user-images.githubusercontent.com/75411735/110271960-635e0100-800c-11eb-89af-cc4b9b7314b1.png)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
