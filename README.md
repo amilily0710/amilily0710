@@ -6,6 +6,10 @@ In class Homework Week2 Day1
 ![2021-03-09](https://user-images.githubusercontent.com/75411735/110407286-f2c7ea80-80c6-11eb-97f4-f800eaf1250c.png)
 
 
+In class Homework Week3 Day1
+
+https://www.youtube.com/watch?v=EP2TiC2mFzk
+
 <!--
 **amilily0710/amilily0710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
